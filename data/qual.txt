@@ -1,0 +1,18 @@
+              lesson_id               | tech_quality 
+--------------------------------------+--------------
+ 6d8e59d9-a7c8-4bb3-8ff3-99cd07acdf1a |            5
+ 62e1a078-33de-47c1-99d2-845b1daca56f |            5
+ 62e1a078-33de-47c1-99d2-845b1daca56f |            5
+ 00fc6685-f53a-49bb-b960-5e0042fd3852 |            5
+ 00fc6685-f53a-49bb-b960-5e0042fd3852 |            5
+ 4cadf623-82e6-422f-a342-acf978302fb2 |            5
+ e597a79a-3f68-4d15-bc77-c7000bcf8e52 |            5
+ 44e2e74c-8481-41a2-bd64-f6af688169b7 |            5
+ ea6f0bf3-bcfc-4555-9b16-cc2cfe722e17 |            5
+ 7d56b43a-d137-446d-8570-8d7d5ccbaee9 |            5
+ 38a8b0ea-ff54-42cf-ab5b-742700ffcd0a |            5
+ 38a8b0ea-ff54-42cf-ab5b-742700ffcd0a |            5
+ b1a122d7-b1c3-43c9-86e1-ec5e40456a3b |            5
+ b1a122d7-b1c3-43c9-86e1-ec5e40456a3b |            5
+ d8816fa1-dd30-4a4b-8bd1-32285dec279f |            5
+ 

@@ -1,0 +1,18 @@
+                  id                  | role  
+--------------------------------------+-------
+ e28351f5-4ccb-4549-8647-d43f2b15e7b8 | pupil
+ 4df2832a-1d63-4453-9659-43993fc35996 | tutor
+ bb1c0bc8-1212-452b-97a0-439d4a2169e2 | pupil
+ 63441abe-c4da-4275-ba26-66f7dbd65dde | tutor
+ a1323b68-c82c-429a-8e2c-65597e648c1a | tutor
+ e866fbd8-a46b-4431-9e19-f0966981f6c9 | pupil
+ 4ab072ed-8a41-4ed6-9877-8f1d1fbb24d2 | pupil
+ 30a19496-bdaf-461c-abbc-2709ae520201 | tutor
+ 43efce48-94b2-4412-857f-223d45969008 | tutor
+ 6daa4b70-1e22-46c8-bcb4-22d452e4add1 | pupil
+ 63441abe-c4da-4275-ba26-66f7dbd65dde | tutor
+ 2ebe48bd-0d4b-41e3-9f7e-02e006227df9 | pupil
+ 43efce48-94b2-4412-857f-223d45969008 | tutor
+ e4e0a62e-5f9f-4d44-aa3f-e6827a926d9f | pupil
+ ad7199dd-3bf6-4d6d-8ae7-448ecf90a4eb | tutor
+ 
